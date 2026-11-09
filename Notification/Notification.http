@@ -1,0 +1,6 @@
+@Notification_HostAddress = http://localhost:5043
+
+GET {{Notification_HostAddress}}/VerifyEmail/
+Accept: application/json
+
+###
